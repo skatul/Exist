@@ -82,8 +82,8 @@ exist/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Exist.git
-   cd Exist
+   git clone https://github.com/skatul/Exist.git
+   cd Exist-Language
    ```
 
 2. **Build the library**:
