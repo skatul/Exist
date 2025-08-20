@@ -1,11 +1,6 @@
 # Exist
-Creating a GitHub project for your new language **Exist** is a great way to get started. It will give you a clear structure for the project, allow you to document the process, and help you track progress while building a community around your language. I can help you structure the project, suggest a project description, and include important sections like objectives, setup instructions, and planned features.
 
-Here’s a **draft for your GitHub repository**:
-
----
-
-## **Repository Name**: `Exist-Language`
+## **Repository Name**: `Exist`
 
 ### **Description**:
 
