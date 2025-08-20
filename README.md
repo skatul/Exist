@@ -66,7 +66,7 @@ To get started with **Exist**, follow the installation instructions below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Exist.git
+   git clone https://github.com/skatul/Exist.git
    cd Exist-Language
    ```
 
